@@ -1,2 +1,2 @@
 # andz-resolusi
-Menyimpan rencana dev 
+2023
