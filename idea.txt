@@ -15,3 +15,4 @@ slider timeline real life
 time stamp
 fitur jump page at number
 di awal mulai ada 2 tombol, lanjut dan mulai..
+on desktop cursor, on mobile background pattern
